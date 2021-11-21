@@ -1,3 +1,24 @@
 body {
-   background-color: yellow;
+   font-family: "Montserrat", sans-serif;
+   background-color: #f5f7fa;
+}
+.about-me-profession {
+   font-size: 14px;
+   font-weight: 700;
+   color: #000;
+}
+.main-content-sections {
+}
+
+.about-me-section {
+   background: rgb(138, 161, 235);
+}
+.my-projects-section {
+   background: rgb(25, 226, 132);
+}
+.my-work-expirience {
+   background: rgb(117, 145, 15);
+}
+.my-education {
+   background: rgb(200, 166, 213);
 }
