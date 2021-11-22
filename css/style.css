@@ -22,6 +22,42 @@ body {
 }
 .my-education {
 }
+
+/* sidebar-section */
+
 .sidebar-section {
    background-color: #1e2939;
+   width: 370px;
+   padding: 40px 0;
+}
+.contacts-section {
+   margin: 50px 0 0 40px;
+}
+.tech-skills-section {
+   margin: 50px 0 0 40px;
+}
+.soft-skills-section {
+}
+.sidebar-title {
+   font-style: normal;
+   font-weight: bold;
+   font-size: 22px;
+   line-height: 27px;
+   color: #fff;
+   margin-bottom: 10px;
+}
+/* contacts-section */
+.contacts-section-type {
+   font-weight: bold;
+   font-size: 14px;
+   line-height: 24px;
+   color: #ffffff;
+   margin-right: 7px;
+}
+.contacts-section-link {
+   color: #8e949c;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 14px;
+   line-height: 24px;
 }
