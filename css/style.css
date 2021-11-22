@@ -2,14 +2,18 @@ body {
    font-family: "Montserrat", sans-serif;
    background-color: #f5f7fa;
 }
+.main-container {
+   display: flex;
+   flex-direction: row-reverse;
+   width: 1200px;
+   background-color: #fff;
+   margin: 40px auto;
+}
 .about-me-profession {
    font-size: 14px;
    font-weight: 700;
    color: #000;
 }
-.main-content-sections {
-}
-
 .about-me-section {
    background: rgb(138, 161, 235);
 }
@@ -21,4 +25,7 @@ body {
 }
 .my-education {
    background: rgb(200, 166, 213);
+}
+.sidebar-section {
+   background-color: #1e2939;
 }
