@@ -61,3 +61,17 @@ body {
    font-size: 14px;
    line-height: 24px;
 }
+/* tech-skills-section */
+.tech-skills-list {
+   padding: 0 0 0 17px;
+}
+.tech-skills-item {
+   color: #fb6d3a;
+}
+.tech-skills-item-text {
+   font-style: normal;
+   font-weight: normal;
+   font-size: 14px;
+   line-height: 24px;
+   color: #ffffff;
+}
